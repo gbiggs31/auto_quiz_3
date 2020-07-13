@@ -1,1 +1,1 @@
-web: gunicorn auto_quiz_app:create_app()
+web: gunicorn auto_quiz_app
