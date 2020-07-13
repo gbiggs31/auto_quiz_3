@@ -1,1 +1,1 @@
-web: gunicorn auto_quiz_app.py:app
+web: gunicorn auto_quiz_app:app
