@@ -1,1 +1,1 @@
-web: gunicorn auto_quiz_app
+web: streamlit run auto_quiz_app.py
