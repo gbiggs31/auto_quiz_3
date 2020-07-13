@@ -1,1 +1,1 @@
-web: streamlit run auto_quiz_app.py
+web: sh setup.sh && streamlit run auto_quiz_app.py
